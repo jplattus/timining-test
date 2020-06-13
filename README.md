@@ -2,6 +2,11 @@
 
 This is a project created with Vue.js as a frontend framework that use API REST and Websockets from TI Mining servers to render device performance and statuses. It will be used to help TI Mining HR selection process to evaluate the job applicant Jean Pierre Lattus for Front-End Developer position. You can got to demo deployed in AWS at this [link](http://timining-test.s3-website-us-west-2.amazonaws.com).
 
+## Prerequisites
+* Your prefered browser
+* npm (tested with v6.14)
+* node (tested with v14.4.0)
+
 ## Main technologies and libraries used in this project
 
 * [Vue.js](https://vuejs.org): Javascrypt framework
