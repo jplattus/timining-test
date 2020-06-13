@@ -61,13 +61,9 @@ timining-test/
 │   ├── views/                  # ui views
 │   ├── App.vue                 # main app component
 │   └── main.js                 # app entry file
-├── test/
-│   └── unit/            # unit tests
-│   └── e2e/             # e2e tests
 ├── .eslintrc.js         # eslint config
 ├── .gitignore           # defaults for gitignore
 ├── .postcssrc.js        # postcss config
-├── CHANGELOG.md
 ├── README.md
 ├── babel.config.js      # babel config
 ├── jest.config.js       # jest config
